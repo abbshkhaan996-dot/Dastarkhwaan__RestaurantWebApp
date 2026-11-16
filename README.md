@@ -1,10 +1,10 @@
-## Run Locally
+# Dastarkhwaan - Pakistani Restaurant Web App
 
-**Prerequisites:**  Node.js
+A responsive restaurant website with menu, deals, cart, checkout, gallery and contact pages.
 
+## Run locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Prerequisites: Node.js
+
+1. Install dependencies: `npm install`
+2. Start the app: `npm run dev`
