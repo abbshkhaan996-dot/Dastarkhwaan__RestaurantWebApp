@@ -1,8 +1,0 @@
-{
-  "name": "DASTARKHWAN — Pakistani Restaurant",
-  "description": "Authentic Pakistani cuisine, charcoal BBQ, sizzling karahi, biryani, and family dining in Islamabad.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
